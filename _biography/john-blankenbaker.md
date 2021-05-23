@@ -11,3 +11,4 @@ tags:
   - Kenbak-1
 ---
 
+{% include_relative%}
