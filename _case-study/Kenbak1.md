@@ -15,7 +15,7 @@ gallery:
   
 ---
 
-{% include_relative%}
+{% include_relative cs.kenbak.md %}
 
 
 
