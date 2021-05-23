@@ -11,4 +11,4 @@ tags:
   - Kenbak-1
 ---
 
-{% include_relative%}
+{% include_relative bio-john.md %}
