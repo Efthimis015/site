@@ -15,5 +15,7 @@ gallery:
   
 ---
 
+{% include_relative%}
+
 
 
