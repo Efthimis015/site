@@ -9,5 +9,4 @@ categories:
 tags:
   - John Blankenbaker
   - Kenbak-1
-  - Kenbak Corporation
 ---
